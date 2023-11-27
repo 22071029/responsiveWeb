@@ -10,7 +10,7 @@ html, body {
 .bg{
   width: 100%;
   height: 100vh;
-  background-image:linear-gradient(rgba(50,50,50,0.75),rgba(50,50,50,0.75)),url(/burger/img/4.jpg);
+  background-image:linear-gradient(rgba(50,50,50,0.75),rgba(50,50,50,0.75)),url(/responsiveWeb/4.jpg);
   background-position: center;
   background-size: cover;
 }
